@@ -11,10 +11,6 @@
 ## Description
 A tool for checking Combolist of Crunchyroll accounts without proxies, It is written in Python from **Scratch** ,i.e, _no external module is used rather than inbuilt Python modules_.
 
-If you found any issue then you can open the [Issue](https://github.com/AJTimePyro/Crunchyroll-Account-Checker/issues/new).
-
-If you like this project then Make sure to Give a **Star⭐** and also consider to **Follow Me** on [Github](https://github.com/AJTimePyro).
-
 ## Requirements
 - Python 3.9 (To run the script)
 - Git (To Download this tool from Github)
@@ -23,14 +19,8 @@ If you like this project then Make sure to Give a **Star⭐** and also consider 
 First, make sure you have Python 3.9 and Git installed on your machine.
 
 ```
-git clone https://github.com/AJTimePyro/Crunchyroll-Account-Checker
+git clone https://github.com/hack-parthsharma/Crunchyroll-Account-Checker
 cd Crunchyroll-Account-Checker
-```
-
-or
-
-```
-git clone https://github.com/AJTimePyro/Crunchyroll-Account-Checker && cd Crunchyroll-Account-Checker
 ```
 
 ## Usage
