@@ -1,7 +1,5 @@
 # <h1 align="center">Crunchyroll Account Checker</h1>
 
-# <p align="center"><a href="https://github.com/AJTimePyro/Crunchyroll-Account-Checker"><img src="https://github-readme-stats.vercel.app/api/pin?username=AJTimePyro&show_icons=true&theme=dracula&hide_border=true&repo=Crunchyroll-Account-Checker"></a></p>
-
 * :spiral_notepad:[Description](#Description)
 * :memo:[Requirements](#Requirements)
 * :computer:[Installation](#Installation)
